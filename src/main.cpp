@@ -65,6 +65,6 @@ void loop() {
   display.print("adc: ");
   display.println(adc_volt);
   display.display();
-  delay(5000);
+  delay(5001);
   
 }
